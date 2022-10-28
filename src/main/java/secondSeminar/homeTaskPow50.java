@@ -13,6 +13,9 @@ public class homeTaskPow50 {
     }
 }
 
+//50. Pow(x, n)
+//Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
+
 
 //        public double myPow(double x, int n) {
 //            if (n < 0) {
