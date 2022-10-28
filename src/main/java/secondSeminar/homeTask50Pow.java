@@ -12,7 +12,6 @@ public class homeTask50Pow {
 }
 
 
-
 //package secondSeminar;
 //
 //public class homeTask50Pow {
